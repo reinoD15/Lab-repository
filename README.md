@@ -2,6 +2,6 @@
 
 Nicolas Donier - reinod15
 
-Alexandre Garreau - Alexdreams/supermagnum007-maker
+Alexandre Garreau - AlexDreams
 
 Quentin Varet - Caent1v
